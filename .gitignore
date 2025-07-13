@@ -23,5 +23,4 @@ __pycache__/
 graficos/
 informes/
 
-# Datos (opcional)
-datos/mi_playlist.csv
+
