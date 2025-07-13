@@ -50,7 +50,7 @@ source venv/bin/activate
 ```
 ## Por qué se utiliza entorno virtual? (venv)
 A. **Evitar Conflictos entre Proyectos**
-   - Si tienes múltiples proyectos en tu computadora, cada uno podría necesitar **versiones diferentes** de las mismas librerías (ej: `pandas 1.3` vs `pandas 2.0`).
+   - Si tenes múltiples proyectos en tu computadora, cada uno podría necesitar **versiones diferentes** de las mismas librerías (ej: `pandas 1.3` vs `pandas 2.0`).
    - Sin `venv`, instalarás todo globalmente y podrías romper proyectos antiguos al actualizar paquetes.
 
 B. **Facilitar la Reproducción del Proyecto**
