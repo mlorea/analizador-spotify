@@ -145,14 +145,17 @@ A continuación se podra observar que la aplicación funciona solamente teniendo
 Ejemplo de si el venv no esta activado
 ![Ejemplo venv desactivado](imagenes/venvoff.jpg)
 
+
 **🔴 IMPORTANTE:**  
 Según la playlist que utilicen puede que los valores del apartado "menos populares" les dé 0.  
 Esto se debe a que Spotify no califica como música mainstream las canciones de la playlist,  
 por ende son "menos populares" aún.
 
----
-
 A continuación, les dejo el ejemplo de lo mencionado y después otro análisis con canciones más populares:
+
+![Ejemplo de canciones con 0 pop](imagenes/pop0.jpg)
+
+![Ejemplo de canciones con pop](imagenes/pop1.jpg)
 
 ---
 
