@@ -142,6 +142,8 @@ A continuación se podra observar que la aplicación funciona solamente teniendo
 
 ![Ejemplo venv activo](imagenes/venvok.jpg)
 
+Ejemplo de si el venv no esta activado
+![Ejemplo venv desactivado](imagenes/venvoff.jpg)
 
 **🔴 IMPORTANTE:**  
 Según la playlist que utilicen puede que los valores del apartado "menos populares" les dé 0.  
