@@ -52,17 +52,25 @@ analizador_playlist/
 
 ## 🚀 Cómo usar
 
-1. **Preparación del entorno**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Linux/Mac
-   .\venv\Scripts\activate   # Windows
-   pip install -r requirements.txt
-2. **Preparar los datos**:
-    Exporta tu playlist desde Spotify usando <a href="https://exportify.net/" target="_blank">Exportify</a>
-    Coloca el archivo CSV en datos/mi_playlist.csv  
-3. **Ejecuta el análisis**:
+1. **Preparación del entorno:**
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate     # Linux/Mac
+    .\venv\Scripts\activate      # Windows
+    pip install -r requirements.txt
+    ```
+
+2. **Preparar los datos:**  
+   Exporta tu playlist desde Spotify usando [Exportify](https://exportify.net).  
+   Coloca el archivo CSV en `datos/mi_playlist.csv`.
+
+3. **Ejecuta el análisis:**
+
+    ```bash
     python main.py
-4. **Ver resultados**:
-    Gráficos: graficos
-    Reporte completo: informes/informe.txt
+    ```
+
+4. **Ver resultados:**  
+   - Gráficos: en la carpeta `graficos/`  
+   - Reporte completo: `informes/informe.txt`
