@@ -140,7 +140,7 @@ tzdata==2025.2
 ### Ejemeplos de salida utilizando (venv)
 A continuación se podra observar que la aplicación funciona solamente teniendo activo el entorno virtual:
 
-![Ejemplo de ejecución](imagenes/venvoj.jpg)
+![Ejemplo venv activo](imagenes/venvok.jpg)
 
 
 **🔴 IMPORTANTE:**  
