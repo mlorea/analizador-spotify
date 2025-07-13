@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de editores
+.vscode/
+.idea/
+*.swp
+
+# Salidas de ejecución
+*.png
+*.jpg
+*.pdf
+graficos/
+informes/
+
+# Datos (opcional)
+datos/mi_playlist.csv
