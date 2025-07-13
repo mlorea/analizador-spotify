@@ -30,26 +30,23 @@ Este proyecto analiza una playlist exportada desde Spotify en formato CSV, gener
 ---
 
 ## 📂 Estructura del proyecto
+```
 analizador_playlist/
-│
-├── datos/ # Datos de entrada
-│ └── mi_playlist.csv # Archivo CSV exportado desde Spotify
-│
-├── graficos/ # Resultados visuales (autogenerado)
-│ ├── artistas.png
-│ ├── temporal.png
-│ └── duracion.png
-│
-├── informes/ # Reportes textuales
-│ └── informe.txt
-│
-├── src/ # Código fuente
-│ ├── main.py # Punto de entrada
-│ ├── analisis.py # Lógica de análisis
-│ └── utils.py # Funciones auxiliares
-│
-├── requirements.txt # Dependencias
-└── README.md # Documentación
+├── datos/                     # Datos de entrada
+│   └── mi_playlist.csv        # Archivo CSV exportado desde Spotify
+├── graficos/                  # Resultados visuales (autogenerado)
+│   ├── artistas.png
+│   ├── temporal.png
+│   └── duracion.png
+├── informes/                  # Reportes textuales
+│   └── informe.txt
+├── src/                       # Código fuente
+│   ├── main.py                # Punto de entrada
+│   ├── analisis.py            # Lógica de análisis
+│   └── utils.py               # Funciones auxiliares
+├── requirements.txt           # Dependencias
+└── README.md                  # Documentación
+```
 
 ---
 
